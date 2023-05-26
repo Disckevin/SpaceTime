@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
-- [Visite o projeto online](https://Disckevin.github.io/nlw-setup)
+- [Visite o projeto online](https://github.com/Disckevin/SpaceTime.git)
 
 ## 🔖 Layout
 
